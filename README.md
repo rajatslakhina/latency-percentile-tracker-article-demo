@@ -8,7 +8,7 @@ refresh a HUD.
 This is the demo repo for the article
 **"Your Tests Pass. That's Not the Senior Bar."** — a piece on testing strategy
 and performance engineering as the two things a senior iOS interview actually
-probes. Article: _(added after publish — see the link at the bottom of this file)_
+probes. Article: **[Your Tests Pass. That's Not the Bar for Senior iOS.](https://medium.com/p/5d8d44a00672)**
 
 ![Concept diagram: a mean of 24ms hides three tail spikes that a p99 of 214ms exposes; record() appends to a fixed ring buffer in O(1), snapshot() computes nearest-rank percentiles.](article-assets/diagram.png)
 
@@ -90,4 +90,4 @@ MIT.
 
 ---
 
-Article: _(added after publish)_
+Article: **[Your Tests Pass. That's Not the Bar for Senior iOS.](https://medium.com/p/5d8d44a00672)**
